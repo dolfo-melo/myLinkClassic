@@ -47,10 +47,3 @@ src/
  └─ main.jsx
 ```
 
-## Próximos passos
-
-- Adaptar o logo para Corsa OS, Vectra OS ou MyLink Heritage.
-- Criar animações mais reais de boot.
-- Integrar com APIs simuladas.
-- Transformar em PWA.
-- Testar em uma central Android ou Raspberry Pi.
